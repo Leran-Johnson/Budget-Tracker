@@ -1,0 +1,1 @@
+Budget Tracker that allows user to input income and expenses. With a name and ammount. It will update screen to show total amounts of income and expense and overall total. A log that displays all added income and expenses in order. And error handling to prevent any missing informatiion or incorect inputs.
